@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba700d42.css",
+    "main.js": "/static/js/main.3a1339c1.js",
+    "static/js/787.b085ac53.chunk.js": "/static/js/787.b085ac53.chunk.js",
+    "static/media/SpoqaHanSansNeo-Medium.otf": "/static/media/SpoqaHanSansNeo-Medium.fbf62f354480b77797d7.otf",
+    "static/media/SpoqaHanSansNeo-Regular.otf": "/static/media/SpoqaHanSansNeo-Regular.42d3dd481b467623968a.otf",
+    "static/media/JejuHallasan.ttf": "/static/media/JejuHallasan.223f98df58426bed623f.ttf",
+    "static/media/test1.png": "/static/media/test1.e4739b1361c7ea3c7c31.png",
+    "static/media/Hamster.png": "/static/media/Hamster.74d2c946f71041b59cb0.png",
+    "static/media/logoName.png": "/static/media/logoName.3b1df60e9b94a836cdfc.png",
+    "index.html": "/index.html",
+    "main.ba700d42.css.map": "/static/css/main.ba700d42.css.map",
+    "main.3a1339c1.js.map": "/static/js/main.3a1339c1.js.map",
+    "787.b085ac53.chunk.js.map": "/static/js/787.b085ac53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba700d42.css",
+    "static/js/main.3a1339c1.js"
+  ]
+}
